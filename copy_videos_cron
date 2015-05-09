@@ -1,2 +1,2 @@
 # m h dom mon dow user  command
-00 23 * * * python ~/dev/personal_utils/copyvideos.py ~/Pictures/iPhoto\ Library.photolibrary/Masters/ ~/Dropbox/video/unsorted/ 
+00 23 * * * python ~/dev/personal-utils/copyvideos.py ~/Pictures/iPhoto\ Library.photolibrary/Masters/ ~/Dropbox/video/unsorted/ 
