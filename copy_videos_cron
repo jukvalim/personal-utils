@@ -1,2 +1,0 @@
-# m h dom mon dow user  command
-* * * * * python ~/dev/personal-utils/copyvideos.py ~/Pictures/iPhoto\ Library.photolibrary/Masters/ ~/Dropbox/video/unsorted/ > /dev/null
